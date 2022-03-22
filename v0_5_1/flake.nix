@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-protobuf-v0_5_1.flake = false;
+  inputs.src-protobuf-v0_5_1.ref   = "refs/tags/v0.5.1";
   inputs.src-protobuf-v0_5_1.owner = "PMunch";
-  inputs.src-protobuf-v0_5_1.ref   = "v0_5_1";
   inputs.src-protobuf-v0_5_1.repo  = "protobuf-nim";
   inputs.src-protobuf-v0_5_1.type  = "github";
   
