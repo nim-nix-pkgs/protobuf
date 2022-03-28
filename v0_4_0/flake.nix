@@ -11,7 +11,6 @@
   inputs.src-protobuf-v0_4_0.ref   = "refs/tags/v0.4.0";
   inputs.src-protobuf-v0_4_0.owner = "PMunch";
   inputs.src-protobuf-v0_4_0.repo  = "protobuf-nim";
-  inputs.src-protobuf-v0_4_0.dir   = "";
   inputs.src-protobuf-v0_4_0.type  = "github";
   
   inputs."combparser".owner = "nim-nix-pkgs";
